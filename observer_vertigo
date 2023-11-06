@@ -1,0 +1,15 @@
+// Vertigo CS2 Observer config
+// Author: Lucio Waßill
+
+// Static camera angles (use mouse to look around)
+bind "kp_0" "spec_mode 6; spec_goto -658.9 959.4 12007.8 18.0 -151.0" // CT Base
+bind "kp_del" "spec_mode 6; spec_goto -1999.2 -1478.2 11692.0 14.0 27.7" // T Base
+bind "kp_1" "spec_mode 6; spec_goto -1323.1 -120.5 11658.7 18.6 -133.3" // T to A ramp
+bind "kp_4" "spec_mode 6; spec_goto -899.2 -1360.6 11811.0 9.7 67.6" // A ramp
+bind "kp_7" "spec_mode 6; spec_goto -171.5 -626.9 12494.5 65.7 -171.7" // A site from above
+bind "kp_2" "spec_mode 6; spec_goto -1320.0 -499.7 11821.7 -8.0 140.8" // Mid near ladder entrance
+bind "kp_5" "spec_mode 6; spec_goto -2040.7 440.6 12037.6 25.8 -41.3" // Mid dropper left
+bind "kp_8" "spec_mode 6; spec_goto -1061.8 104.9 11885.4 0.5 140.1" // Mid from elevator
+bind "kp_3" "spec_mode 6; spec_goto -1805.9 139.0 11635.7 -2.6 -137.6" // T to b stairs
+bind "kp_6" "spec_mode 6; spec_goto -2839.8 100.8 12125.2 31.0 -6.0" // B stairs
+bind "kp_9" "spec_mode 6; spec_goto -2104.2 1107.2 12536.2 55.1 -99.6" // B from top
